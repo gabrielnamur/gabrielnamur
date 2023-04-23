@@ -4,6 +4,9 @@
 
 ![Namur's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnamur&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Tecnologias Utilizadas:
 
 <div style="display: inline_block">
@@ -12,3 +15,4 @@
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
      <img align="center" src="mysql 	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
