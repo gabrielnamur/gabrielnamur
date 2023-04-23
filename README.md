@@ -4,9 +4,6 @@
 
 ![Namur's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielnamur&show_icons=true&theme=radical)
 
-[![Namur's Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielnamur&repo=github-readme-stats)](https://github.com/gabrielnamur/github-readme-stats)
-
-
 ### Tecnologias Utilizadas:
 
 <div style="display: inline_block">
